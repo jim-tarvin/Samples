@@ -15,3 +15,7 @@ once, by turning the multi-power point on() and off()
 
 I thought about tracking state in the wrappers and 'ignoring', but there didn't seem any harm in resignalling
 the appliances that were on to turn on (the appliance would ignore, presumably); ditto with re-signalling 'off'.
+
+
+----
+
